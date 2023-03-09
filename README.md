@@ -1,5 +1,5 @@
 # api-service-notification
-microservição de notficiação usando nestjs
+microserviço de notficiação usando nestjs
 Nest Logo
 
 A progressive Node.js framework for building efficient and scalable server-side applications.
